@@ -1,2 +1,11 @@
 # my-project-2
-ford
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* tailwind
+* JavaScript
+* Git & GitHub
+
+
